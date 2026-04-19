@@ -19,7 +19,7 @@ Cette capture montre que le premier client est bien configuré en **DHCP** et qu
 
 
 <img width="737" height="681" alt="image" src="https://github.com/user-attachments/assets/6fd5323e-9871-4ed4-b913-f1ef1db3bdbd" />
-<img width="1713" height="700" alt="image" src="https://github.com/user-attachments/assets/508a1859-d52d-4136-89ff-e074bf1c2dd2" />
+
 
 ## 3. Réservation DHCP et attribution statique au second client
 
