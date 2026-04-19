@@ -28,5 +28,5 @@ Le client reçoit bien l’adresse réservée **172.20.0.10**.
 
 
 <img width="1713" height="700" alt="image" src="https://github.com/user-attachments/assets/508a1859-d52d-4136-89ff-e074bf1c2dd2" />
-<img width="737" height="681" alt="image" src="https://github.com/user-attachments/assets/6fd5323e-9871-4ed4-b913-f1ef1db3bdbd" />
+
 
